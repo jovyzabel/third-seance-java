@@ -14,4 +14,5 @@ public class Glider extends Vehicle implements Flyable{
     public void fly(String energy) {
         System.out.println("I fly in the air with "+energy);
     }
+
 }

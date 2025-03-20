@@ -9,6 +9,7 @@ public class App {
 
         Glider glider = new Glider();
         glider.fly("Gaz");
+        glider.test();
 
         Cottage c = new Cottage();
         c.build("Wood");

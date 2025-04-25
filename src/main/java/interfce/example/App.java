@@ -11,8 +11,8 @@ public class App {
         glider.fly("Gaz");
         glider.test();
 
-        Cottage c = new Cottage();
-        c.build("Wood");
+//        Cottage c = new Cottage();
+//        c.build("Wood");
 
     }
 }

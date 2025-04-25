@@ -1,5 +1,7 @@
 package interfce.example;
 
+import javax.management.modelmbean.InvalidTargetObjectTypeException;
+
 public class Glider extends Vehicle implements Flyable{
     public Glider(){
         this.mvSpeed = 33;
